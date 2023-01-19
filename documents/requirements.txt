@@ -1,0 +1,5 @@
+name : inception
+
+dependencies:
+    - python=3.10.5
+    - tensorflow=2.8.1
